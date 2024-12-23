@@ -49,17 +49,17 @@
     },
     "BOT_MENU_LINKS": {
       "description": "add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://files.catbox.moe/l1i9o4.jpg",
+      "value":"https://files.catbox.moe/cnkqte.webp",
       "required": false
     },
     "PUBLIC_MODE": {
       "description": "type yes to put your bot on public mode or no to put it on private mod",
-      "value": "yes",
+      "value": "no",
       "required": false 
     },
     "HEROKU_APY_KEY": {
       "description": "insert your heroku api-key (OPTIONAL)",
-      "value" : "", 
+      "value" : "HRKU-303f15ea-d34a-424f-876a-cbd2577cdc9a", 
       "required": false
     },
     "HEROKU_APP_NAME": {
@@ -80,12 +80,12 @@
     "NUMERO_OWNER": {
       "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
       "required": false,
-      "value": "255760774888"
+      "value": "255756530143"
     },
     "WARN_COUNT": {
       "desc": "this is the limit of warn for warning commandes",
       "required": false,
-      "value": "2"
+      "value": "3"
     },
     "STARTING_BOT_MESSAGE": {
       "description": "if you don't want startting-bot-message put no else put yes",
