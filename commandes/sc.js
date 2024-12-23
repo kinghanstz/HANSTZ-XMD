@@ -39,7 +39,7 @@ const date = moment().format('DD/MM/YYYY');
 ✰━━━➳════⊷════━━━━✰
 
 *GITHUB LINK*
-> https://github.com/HANSTZTECH
+> https://github.com/kinghanstz
 
 *FOR DEVELOPER T.ME*
 > https://wa.me/255692540143
