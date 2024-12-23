@@ -508,7 +508,7 @@ zokou({ nomCom: "info", categorie: "Groupe" }, async (dest, zk, commandeOptions)
 
 //----------------------------------------------------------------------------
 
-zokou({ nomCom: "groupe", categorie: "Groupe" }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: "group", categorie: "Groupe" }, async (dest, zk, commandeOptions) => {
 
   const { repondre, verifGroupe, verifAdmin, superUser, arg } = commandeOptions;
 
@@ -836,7 +836,7 @@ zokou({ nomCom: "apk", reaction: "✨", categorie: "Recherche" }, async (dest, z
 
     const downloadLink = appData.dllink;
     const captionText =
-      "『 *Zokou-Md App* 』\n\n*Nom :* " + appData.name +
+      "『 *Hans-Md App* 』\n\n*Nom :* " + appData.name +
       "\n*Id :* " + appData["package"] +
       "\n*Dernière MAJ :* " + appData.lastup +
       "\n*Taille :* " + appData.size +
