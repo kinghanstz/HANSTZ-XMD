@@ -213,20 +213,21 @@ zokou({ nomCom: 'problem',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*_┏━━━━━━━━━━━━━━
-┃HANS-MD 
-| 
-┃   
-┗━━━━━━━━━━━━━━━
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❶ || Creator = 𖥘 HANS TZ 𖥘
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❷ || WhattsApp Channel = https://whatsapp.com/channel/0029Vav3hzmCsU9JziuwwJ02
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-Please Follow My Githubu
-✌️ https://github.com/Mrhanstz
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-©*2025-2099 HANS TECH_*`) 
+                 await repondre(`
+*_┏━━━━━━━━━━━━━━
+  ┃HANS-MD 
+  | 
+  ┃   
+  ┗━━━━━━━━━━━━━━
+   ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+   ❶ || Creator = 𖥘 HANS TZ 𖥘
+   ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+   ❷ || WhattsApp Channel =        https://whatsapp.com/channel/0029Vav3hzmCsU9JziuwwJ02
+   ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+   Please Follow My Githubu
+  ✌️ https://github.com/Mrhanstz
+   ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+  ©*2025-2099 HANS TECH_*`) 
 
    
 
