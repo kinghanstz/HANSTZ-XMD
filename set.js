@@ -22,7 +22,7 @@ module.exports = {
   'HEROKU_APY_KEY': process.env.HEROKU_APY_KEY,
   'WARN_COUNT': process.env.WARN_COUNT || '3',
   'ETAT': process.env.PRESENCE || '',
-  A_REACT: process.env.AUTO_REACTION || 'on',
+  'A_REACT': process.env.AUTO_REACTION || 'on',
   'CHATBOT': process.env.PM_CHATBOT || 'no',
   'ANTICALL': process.env.ANTICALL || "yes",
   'AUTO_REACT_STATUS': process.env.AUTO_REACT_STATUS || "yes",
